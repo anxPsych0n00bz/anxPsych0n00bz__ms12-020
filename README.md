@@ -1,4 +1,1 @@
-anxPsych0n00bz-Script
-=====================
-
-My script.
+script สำหรับ dos remode desktop.
